@@ -1,0 +1,10 @@
+.correct label {
+    color: #41d7a1;
+}
+
+.incorrect label {
+    color: #e42c2c;
+}
+.checked label {
+    color: #2dabff;
+}
